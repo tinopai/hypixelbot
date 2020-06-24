@@ -1,6 +1,6 @@
 # Hypixel BOT
 Welcome to my repository! Well this was a side project I was doing, and I saw lots of **Hypixel Bots** on the [Code Creation forum](https://hypixel.net/forums/code-creations.65/)
-And none of them was open-source so I decided to make my own one.
+and none of them was open-source so I decided to make my own one.
 
 ## Requirements
 #### Node requirements (already on package.json)
