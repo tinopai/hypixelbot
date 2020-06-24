@@ -4,7 +4,7 @@
   "description": "Open-source Hypixel Discord BOT (https://github.com/tinopai/hypixelbot)",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "author": "GitHub tinopai",
   "license": "MIT",
