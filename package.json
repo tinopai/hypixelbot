@@ -1,0 +1,16 @@
+{
+  "name": "hypixelbot",
+  "version": "1.0.0",
+  "description": "Open-source Hypixel Discord BOT (https://github.com/tinopai/hypixelbot)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "GitHub tinopai",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "humanize-duration": "^3.23.1",
+    "hypixel-api-nodejs": "^0.1.5"
+  }
+}
